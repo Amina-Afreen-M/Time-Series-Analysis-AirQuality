@@ -174,8 +174,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
-
-- UCI Machine Learning Repository for providing the Air Quality dataset
-- Dash and Plotly for the interactive visualization framework
-- Facebook Research for the Prophet forecasting library
